@@ -9,10 +9,10 @@ OVERVIEW OF CHANGES
 
 The buttons K1 - K8 control the same actions regardless of what Control Bank or Pad Mode is enabled.
 - K1-K3 select the Pad Mode (Instrument, Clip or Scene)
-- K4-K6 control the currently selected track:
-    K4 toggles record
-    K5 toggles solo
-    K6 toggles mute 
+- K4-K6 controls the action (and lights) depending on the currently selected track:
+-- K4 toggles record
+-- K5 toggles solo
+-- K6 toggles mute 
 - K7 selects the previous track
 - K8 selects the next track
   
